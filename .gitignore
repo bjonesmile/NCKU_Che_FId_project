@@ -1,0 +1,13 @@
+__pycache__/
+report_file/
+ManipulatedVarPlot/
+lorenz.py
+thread_test.py
+test.py
+cstr_numpy.py
+my_slove_ivp.py
+thread_test.py
+result1.svg
+output.csv
+transport_gdx,py
+transport4.py
